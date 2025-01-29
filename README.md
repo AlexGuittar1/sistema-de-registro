@@ -5,4 +5,4 @@ Para la Ejecucion del sistema:
 
 ```npm install react```
 
-Modidy Readme
+Modify Readme
